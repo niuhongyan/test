@@ -1,0 +1,72 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\ads\mg\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\ads\mg\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\ads\mg\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\ads\mg\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\ads\mg\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TwinCAT.Ads.dll
+C:\Documents and Settings\Administrator\桌面\ads\mg\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ads\mg\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\ads\mg\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ads\mg\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\C#源程序\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C#源程序\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\C#源程序\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\C#源程序\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#源程序\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\C#源程序\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C#源程序\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C#源程序\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\C#源程序\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\ADS通讯(c#)\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.pdb
+D:\My Documents\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.exe
+D:\My Documents\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.pdb
+D:\My Documents\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.exe
+D:\My Documents\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.pdb
+D:\My Documents\ADS通讯(c#)\C#源程序\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\My Documents\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\My Documents\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+L:\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.exe
+L:\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.pdb
+L:\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.exe
+L:\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.pdb
+L:\ADS通讯(c#)\C#源程序\obj\Debug\ResolveAssemblyReference.cache
+L:\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Form1.resources
+L:\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+L:\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\思哲睿\TwinCard31\C#通信例程\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.exe
+E:\思哲睿\TwinCard31\C#通信例程\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.pdb
+E:\思哲睿\TwinCard31\C#通信例程\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.exe
+E:\思哲睿\TwinCard31\C#通信例程\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.pdb
+E:\思哲睿\TwinCard31\C#通信例程\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\思哲睿\TwinCard31\C#通信例程\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\思哲睿\TwinCard31\C#通信例程\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\思哲睿\TwinCard31\C#通信例程\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\思哲睿\TwinCard31\C#通信例程\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.exe.config
+F:\nhy\Source\VS2017\202011\MDHC#ADS\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.exe.config
+F:\nhy\Source\VS2017\202011\MDHC#ADS\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.exe
+F:\nhy\Source\VS2017\202011\MDHC#ADS\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.pdb
+F:\nhy\Source\VS2017\202011\MDHC#ADS\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.exe
+F:\nhy\Source\VS2017\202011\MDHC#ADS\ADS通讯(c#)\C#源程序\bin\Debug\WindowsFormsApplication1.pdb
+F:\nhy\Source\VS2017\202011\MDHC#ADS\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\nhy\Source\VS2017\202011\MDHC#ADS\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\nhy\Source\VS2017\202011\MDHC#ADS\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\nhy\Source\VS2017\202011\MDHC#ADS\ADS通讯(c#)\C#源程序\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
